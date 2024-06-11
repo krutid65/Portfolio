@@ -544,7 +544,7 @@
   .w-col {
     position: relative;
     float: left;
-    width: 100%;
+    width: 50%;
     min-height: 1px;
     padding-left: 10px;
     padding-right: 10px;
